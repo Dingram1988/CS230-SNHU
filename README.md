@@ -1,5 +1,5 @@
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-What did you do particularly well in developing this documentation?
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? The client was a company call Chat Away,they wanted to create a mobile version of thier website.
+What did you do particularly well in developing this documentation? I think i did well in pointing out the pros and cons of the different options.
 What about the process of working through a design document did you find helpful when developing the code?
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
